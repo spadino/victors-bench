@@ -1,3 +1,6 @@
 [submodule "build"]
 	path = build
 	url = https://github.com/spadino/victors-bench.git
+[submodule "themes/victors-bench-hugo-theme"]
+	path = themes/victors-bench-hugo-theme
+	url = https://github.com/spadino/victors-bench-hugo-theme.git

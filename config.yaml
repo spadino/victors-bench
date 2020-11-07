@@ -21,7 +21,7 @@ buildExpired: false
 
 # Source Tree
 # All site related content folders lives under 'src'
-archetypeDir: "src/types"
+archetypeDir: "src/archetypes"
 i18nDir: "src/locales"
 contentDir: "src/content"
 dataDir: "src/data"

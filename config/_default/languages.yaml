@@ -1,6 +1,20 @@
 en:
   Name: "English"
   Code: "en-GB"
+  weight: 1
 it:
   Name: "Italiano"
   Code: "it-IT"
+  weight: 2
+fr:
+  Name: "Français"
+  Code: "fr-FR"
+  weight: 3
+es:
+  Name: "Español"
+  Code: "es-ES"
+  weight: 4
+pt:
+  Name: "Portugues"
+  Code: "pt-BR"
+  weight: 5

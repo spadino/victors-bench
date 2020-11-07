@@ -1,5 +1,5 @@
 # victors-bench
-A minimal yet modern Hugo Theme and Starter Kit
+A minimal yet modern Starter Kit. Include my own, homonymous Victor's Bench theme.
 
 ## What's up?
 

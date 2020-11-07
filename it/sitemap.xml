@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://spadino.github.io/victors-bench/it/categories/</loc>
+    <loc>https://spadino.github.io/victors-bench/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spadino.github.io/victors-bench/en/categories/"
+                href="https://spadino.github.io/victors-bench/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://spadino.github.io/victors-bench/it/categories/"
+                href="https://spadino.github.io/victors-bench/it/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://spadino.github.io/victors-bench/it/tags/</loc>
+    <loc>https://spadino.github.io/victors-bench/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spadino.github.io/victors-bench/en/tags/"
+                href="https://spadino.github.io/victors-bench/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://spadino.github.io/victors-bench/it/tags/"
+                href="https://spadino.github.io/victors-bench/it/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://spadino.github.io/victors-bench/it/</loc>
+    <loc>https://spadino.github.io/victors-bench/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spadino.github.io/victors-bench/en/"
+                href="https://spadino.github.io/victors-bench/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://spadino.github.io/victors-bench/it/"
+                href="https://spadino.github.io/victors-bench/it/"
                 />
   </url>
   

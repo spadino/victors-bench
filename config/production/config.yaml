@@ -1,3 +1,8 @@
+baseURL: http://spadino.github.io/victors-bench
 googleAnalytics: ""
+
+# Overrides
 enableGitInfo: true
 verbose: false
+buildDrafts: false
+buildFuture: false

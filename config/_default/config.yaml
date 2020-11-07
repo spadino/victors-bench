@@ -1,0 +1,10 @@
+baseURL: http://example.org/
+title: "Victor's Bench"
+
+# Locales
+defaultContentLanguage: "en"
+defaultContentLanguageInSubDir: true
+enableMissingTranslationPlaceholders: false
+hasCJKLanguage: false
+languageCode: "en"
+removePathAccents: true

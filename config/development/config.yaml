@@ -1,2 +1,7 @@
+baseURL: http://localhost:1313/
+
+# Overrides
 enableGitInfo: false
 verbose: true
+buildDrafts: true
+buildFuture: true

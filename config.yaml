@@ -1,0 +1,46 @@
+baseURL: http://example.org/
+title: "Victor's Bench"
+
+# Render
+canonifyURLs: false
+uglyurls: false
+disableAliases: false
+disableHugoGeneratorInject: false
+disableKinds: []
+disableLiveReload: false
+enableEmoji: true
+enableGitInfo: false
+ignoreCache: false
+ignoreFiles: []
+metaDataFormat: "yaml"
+verbose: true
+watch: true
+
+# Locales
+defaultContentLanguage: "en"
+defaultContentLanguageInSubDir: true
+enableMissingTranslationPlaceholders: false
+hasCJKLanguage: false
+languageCode: "en"
+removePathAccents: true
+
+# Build
+cleanDestinationDir: true
+buildDrafts: true
+buildFuture: true
+buildExpired: false
+
+# Source Tree
+# All site related content folders lives under 'src'
+archetypeDir: "src/archetypes"
+i18nDir: "src/locales"
+contentDir: "src/content"
+dataDir: "src/data"
+layoutDir: "src/layouts"
+staticDir: "src/static"
+
+# Build Output
+publishDir: "build"
+
+# Themes
+themesDir: "themes"

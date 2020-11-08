@@ -1,5 +1,6 @@
 baseURL: http://example.org/
 title: "Victor's Bench"
+theme: "victors-bench-hugo-theme"
 
 # Locales
 defaultContentLanguage: "en"
